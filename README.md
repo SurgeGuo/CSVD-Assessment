@@ -1,2 +1,2 @@
-# Machine learning-based risk assessment of cerebral small vessel disease using routine physical examination and laboratory data
+# Development and validation of an interpretable machine learning model for cerebral small vessel disease risk assessment
 Coming soon...
